@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MP3TagHelper:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c651c3d8-1c26-4f6d-be8c-727d5d83e304" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../_Lib/entagged-audioformats-0.15.jar!/" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -53,45 +58,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587825735511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587825735511" />
     <state x="389" y="105" key="FileChooserDialogImpl" timestamp="1587817170816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587817170816" />
-    <state width="1323" height="177" key="GridCell.Tab.0.bottom" timestamp="1587823050206">
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom" timestamp="1587826050708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587823050206" />
-    <state width="1323" height="177" key="GridCell.Tab.0.center" timestamp="1587823050206">
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587826050708" />
+    <state width="1323" height="177" key="GridCell.Tab.0.center" timestamp="1587826050708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587823050206" />
-    <state width="1323" height="177" key="GridCell.Tab.0.left" timestamp="1587823050206">
+    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587826050708" />
+    <state width="1323" height="177" key="GridCell.Tab.0.left" timestamp="1587826050708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587823050206" />
-    <state width="1323" height="177" key="GridCell.Tab.0.right" timestamp="1587823050206">
+    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587826050708" />
+    <state width="1323" height="177" key="GridCell.Tab.0.right" timestamp="1587826050708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587823050206" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587822304493">
+    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587826050708" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587824565464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587822304493" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587822304493">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587824565464" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587824565464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587822304493" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587822304493">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587824565464" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587824565464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587822304493" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587822304493">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587824565464" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587824565464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587822304493" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1587817183625">
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587824565464" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1587825772335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587817183625" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587825772335" />
   </component>
 </project>

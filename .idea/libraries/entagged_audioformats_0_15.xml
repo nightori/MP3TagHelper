@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="entagged-audioformats-0.15">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../_Lib/entagged-audioformats-0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../_lib/entagged-audioformats-0.15.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

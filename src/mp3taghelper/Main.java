@@ -29,7 +29,8 @@ public class Main {
             default:
                 System.out.println("Come on, are you a software tester or something?");
         }
-        System.out.print("\nDone!");
+        System.out.print("\nDone! Press enter to exit.");
+        scanner.nextLine();
     }
 
     public static void renameFiles(File[] files){
