@@ -1,2 +1,2 @@
 # MP3TagHelper
- A simple program to deal with MP3 metadata
+This nice little program allows you to rename mp3 files according to their tags or change tags according to filenames.
